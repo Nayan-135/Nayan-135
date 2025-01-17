@@ -1,3 +1,4 @@
+![logo](https://github.com/Nayan-135/Nayan-135/blob/main/Nayan%20Banner.png.png)
 <h1 align="center">Hi 👋, I'm Nayan Ghate</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
@@ -23,4 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayan-135&show_icons=true&locale=en" alt="nayan-135" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayan-135&" alt="nayan-135" /></p>
